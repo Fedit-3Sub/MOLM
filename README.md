@@ -7,7 +7,7 @@
 ![image](https://github.com/user-attachments/assets/72b7c1ea-ffe3-4d93-8aba-ab60e04b57ae)
 
 # 연합트윈 서비스용 경량 3차원 포맷 가이드
-![image](https://github.com/user-attachments/assets/c795c03c-a74d-4635-bf5f-0b529afe6aac)
+![image](https://github.com/user-attachments/assets/6e973bb3-6a35-4b74-9148-714fbe422698)
 
 # Funding
 This work was supported by Institute of Information & communications Technology Planning & Evaluation (IITP) grant funded by the Korea government (MSIT) (No.2022-0-00431, Development of open service platform and creation technology of federated intelligent digital twin).
